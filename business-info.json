@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alf & Bet",
+    "thumbnailUrl" : "https://ezerdavid.github.io/demo-thumbnails/afl-and-bet-list-view.jpg",
+    "openingHour" : "7:00",
+    "closingHour" : "18:00",
+    "openDays" : ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "closeDays" : []
+  },
+  {
+    "name": "Pristav 1888",
+    "thumbnailUrl" : "https://ezerdavid.github.io/demo-thumbnails/langos-map-preview.jpg",
+    "openingHour" : "18:00",
+    "closingHour" : "24:00",
+    "openDays" : ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "closeDays" : []
+  },
+    {
+    "name": "Langos U Ladi",
+    "thumbnailUrl" : "https://ezerdavid.github.io/demo-thumbnails/langos-map-preview.jpg",
+    "openingHour" : "20:00",
+    "closingHour" : "23:00",
+    "openDays" : ["Fri", "Sat", "Sun"],
+    "closeDays" : ["Mon", "Tue", "Wed", "Thu"]
+  }
+]
